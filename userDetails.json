@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Ash",
+      "image": "profile1.jpg",
+      "email": "test@example.com",
+      "mobile": "+1234567890",
+      "address": "Bangalore"
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "image": "profile2.jpg",
+      "email": "test1@example.com",
+      "mobile": "123456789",
+      "address": "Delhi"
+    },
+    {
+        "id": 3,
+        "name": "cap",
+        "image": "profile2.jpg",
+        "email": "test2@example.com",
+        "mobile": "1111111111",
+        "address": "switzerland"
+      }
+  ]

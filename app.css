@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.headercontent {
+    border-bottom: 1px solid #00f;
+    justify-content: space-between;
+    display: flex;
+    background: antiquewhite;
+    height: 50px;
+    align-items: center;
+}
+.headercontent ul {
+    list-style-type: none;
+    display: inline-flex;
+}
+.headercontent ul li {
+    margin: 0px 4px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
